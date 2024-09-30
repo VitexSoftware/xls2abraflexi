@@ -3,7 +3,6 @@
 Custom XLS Invoice Importer for AbraFlexi
 
 [![wakatime](https://wakatime.com/badge/user/5abba9ca-813e-43ac-9b5f-b1cfdf3dc1c7/project/5de83ee4-0e40-4f93-a833-2d25484890ef.svg)](https://wakatime.com/badge/user/5abba9ca-813e-43ac-9b5f-b1cfdf3dc1c7/project/5de83ee4-0e40-4f93-a833-2d25484890ef)
-[![Latest Stable Version](http://poser.pugx.org/VitexSoftware/xls2abraflexi/v)](https://packagist.org/packages/VitexSoftware/xls2abraflexi) [![Total Downloads](http://poser.pugx.org/VitexSoftware/xls2abraflexi/downloads)](https://packagist.org/packages/VitexSoftware/xls2abraflexi) [![Latest Unstable Version](http://poser.pugx.org/VitexSoftware/xls2abraflexi/v/unstable)](https://packagist.org/packages/VitexSoftware/xls2abraflexi) [![License](http://poser.pugx.org/VitexSoftware/xls2abraflexi/license)](https://packagist.org/packages/VitexSoftware/xls2abraflexi) [![PHP Version Require](http://poser.pugx.org/VitexSoftware/xls2abraflexi/require/php)](https://packagist.org/packages/VitexSoftware/xls2abraflexi)
 
 ## Overview
 
