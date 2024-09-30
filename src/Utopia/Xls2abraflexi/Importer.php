@@ -131,7 +131,11 @@ class Importer extends \AbraFlexi\FakturaVydana
                         'typCenyDphK' => 'typCeny.sDph',
                         'mena' => \AbraFlexi\Functions::code($currency),
                     ];
-                    
+
+                    if ($productor->getDataValue('skladove')) {
+                        $itemData['sklad'] = \AbraFlexi\Functions::code(\Ease\Shared::cfg('ABRAFLEXI_WAREHOUSE', 'SKLAD'));
+                    }
+
                     $invoicer->addArrayToBranch($itemData);
                     $invoicer->addStatusMessage('Item: '.$itemDescription.', Quantity: '.$itemQuantity.', Unit Price: '.$itemUnitPrice.', Code: '.$productor);
                     ++$row;

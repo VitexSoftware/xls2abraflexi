@@ -23,7 +23,7 @@ Custom XLS Invoice Importer for AbraFlexi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/xls2abralexi.git
+    git clone https://github.com/VitexSoftware/xls2abraflexi
     ```
 2. Navigate to the project directory:
     ```sh
