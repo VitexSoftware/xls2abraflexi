@@ -2,6 +2,9 @@
 
 Custom XLS Invoice Importer for AbraFlexi
 
+[![wakatime](https://wakatime.com/badge/user/5abba9ca-813e-43ac-9b5f-b1cfdf3dc1c7/project/5de83ee4-0e40-4f93-a833-2d25484890ef.svg)](https://wakatime.com/badge/user/5abba9ca-813e-43ac-9b5f-b1cfdf3dc1c7/project/5de83ee4-0e40-4f93-a833-2d25484890ef)
+[![Latest Stable Version](http://poser.pugx.org/phpunit/phpunit/v)](https://packagist.org/packages/phpunit/phpunit) [![Total Downloads](http://poser.pugx.org/phpunit/phpunit/downloads)](https://packagist.org/packages/phpunit/phpunit) [![Latest Unstable Version](http://poser.pugx.org/phpunit/phpunit/v/unstable)](https://packagist.org/packages/phpunit/phpunit) [![License](http://poser.pugx.org/phpunit/phpunit/license)](https://packagist.org/packages/phpunit/phpunit) [![PHP Version Require](http://poser.pugx.org/phpunit/phpunit/require/php)](https://packagist.org/packages/phpunit/phpunit)
+
 ## Overview
 
 `xls2abralexi` is a tool designed to import invoices from XLS files into the AbraFlexi accounting system. This utility simplifies the process of transferring invoice data, ensuring accuracy and efficiency.
