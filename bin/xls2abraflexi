@@ -1,0 +1,6 @@
+#!/bin/bash
+php -f /usr/share/xls2abraflexi/xls2abraflexi.php
+
+
+
+
