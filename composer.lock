@@ -925,12 +925,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/clue/reactphp-ndjson.git",
-                "reference": "60c4f980a4f7fb5d415be2ab4ad4d41522110d19"
+                "reference": "e7f8438ada34a37d1e881805f41e33a4f07afdb9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/clue/reactphp-ndjson/zipball/60c4f980a4f7fb5d415be2ab4ad4d41522110d19",
-                "reference": "60c4f980a4f7fb5d415be2ab4ad4d41522110d19",
+                "url": "https://api.github.com/repos/clue/reactphp-ndjson/zipball/e7f8438ada34a37d1e881805f41e33a4f07afdb9",
+                "reference": "e7f8438ada34a37d1e881805f41e33a4f07afdb9",
                 "shasum": ""
             },
             "require": {
@@ -982,7 +982,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-06-29T10:50:20+00:00"
+            "time": "2026-11-17T10:26:58+00:00"
         },
         {
             "name": "composer/pcre",
@@ -1211,31 +1211,31 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ergebnis/agent-detector.git",
-                "reference": "bcc63004284c61c6df6e9625acf2673e3be1889b"
+                "reference": "ae2169d42024c6009abd0bb0aec5cf46c902fb1d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ergebnis/agent-detector/zipball/bcc63004284c61c6df6e9625acf2673e3be1889b",
-                "reference": "bcc63004284c61c6df6e9625acf2673e3be1889b",
+                "url": "https://api.github.com/repos/ergebnis/agent-detector/zipball/ae2169d42024c6009abd0bb0aec5cf46c902fb1d",
+                "reference": "ae2169d42024c6009abd0bb0aec5cf46c902fb1d",
                 "shasum": ""
             },
             "require": {
                 "php": "~7.4.0 || ~8.0.0 || ~8.1.0 || ~8.2.0 || ~8.3.0 || ~8.4.0 || ~8.5.0 || ~8.6.0"
             },
             "require-dev": {
-                "ergebnis/composer-normalize": "^2.54.0",
-                "ergebnis/license": "^2.8.0",
+                "ergebnis/composer-normalize": "^2.56.1",
+                "ergebnis/license": "^2.9.0",
                 "ergebnis/php-cs-fixer-config": "^6.60.2",
-                "ergebnis/phpstan-rules": "^2.14.2",
+                "ergebnis/phpstan-rules": "^2.17.1",
                 "ergebnis/phpunit-slow-test-detector": "^2.27.0",
-                "ergebnis/rector-rules": "^1.18.5",
+                "ergebnis/rector-rules": "^1.19.0",
                 "fakerphp/faker": "^1.24.1",
                 "infection/infection": "^0.26.6",
                 "phpstan/extension-installer": "^1.4.3",
                 "phpstan/phpstan": "^2.2.14",
                 "phpstan/phpstan-deprecation-rules": "^2.0.5",
-                "phpstan/phpstan-phpunit": "^2.1.1",
-                "phpstan/phpstan-strict-rules": "^2.1.0",
+                "phpstan/phpstan-phpunit": "^2.1.2",
+                "phpstan/phpstan-strict-rules": "^2.1.1",
                 "phpunit/phpunit": "^9.6.34",
                 "rector/rector": "^2.7.0"
             },
@@ -1243,7 +1243,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-main": "2.0-dev"
+                    "dev-main": "2.1-dev"
                 },
                 "composer-normalize": {
                     "indent-size": 2,
@@ -1273,7 +1273,7 @@
                 "security": "https://github.com/ergebnis/agent-detector/blob/main/.github/SECURITY.md",
                 "source": "https://github.com/ergebnis/agent-detector"
             },
-            "time": "2026-10-29T17:44:55+00:00"
+            "time": "2026-11-19T13:07:04+00:00"
         },
         {
             "name": "ergebnis/composer-normalize",
@@ -1998,16 +1998,16 @@
         },
         {
             "name": "friendsofphp/php-cs-fixer",
-            "version": "v3.95.30",
+            "version": "v3.95.32",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer.git",
-                "reference": "e85cafc4d861c122839d5409eda3325ac0ec0300"
+                "reference": "c12acc751f4039935429057f1fadf0e5f62601c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHP-CS-Fixer/PHP-CS-Fixer/zipball/e85cafc4d861c122839d5409eda3325ac0ec0300",
-                "reference": "e85cafc4d861c122839d5409eda3325ac0ec0300",
+                "url": "https://api.github.com/repos/PHP-CS-Fixer/PHP-CS-Fixer/zipball/c12acc751f4039935429057f1fadf0e5f62601c1",
+                "reference": "c12acc751f4039935429057f1fadf0e5f62601c1",
                 "shasum": ""
             },
             "require": {
@@ -2090,7 +2090,7 @@
             ],
             "support": {
                 "issues": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/issues",
-                "source": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/tree/v3.95.30"
+                "source": "https://github.com/PHP-CS-Fixer/PHP-CS-Fixer/tree/v3.95.32"
             },
             "funding": [
                 {
@@ -2098,7 +2098,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-11-09T14:32:19+00:00"
+            "time": "2026-11-17T18:09:13+00:00"
         },
         {
             "name": "justinrainbow/json-schema",
@@ -3241,17 +3241,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/reactphp/cache.git",
-                "reference": "eace2ae5d409b05720f34c79ec027d79d84dd1c4"
+                "reference": "1757926a52cd629c6db4faafdb33137abae2ee7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reactphp/cache/zipball/eace2ae5d409b05720f34c79ec027d79d84dd1c4",
-                "reference": "eace2ae5d409b05720f34c79ec027d79d84dd1c4",
+                "url": "https://api.github.com/repos/reactphp/cache/zipball/1757926a52cd629c6db4faafdb33137abae2ee7e",
+                "reference": "1757926a52cd629c6db4faafdb33137abae2ee7e",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.0",
-                "react/promise": "^3.0 || ^2.0 || ^1.1"
+                "react/promise": "^3.3 || ^2.0 || ^1.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^9.6 || ^8.5 || ^5.7 || ^4.8.36"
@@ -3305,7 +3305,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-07-01T10:27:58+00:00"
+            "time": "2026-11-22T17:53:18+00:00"
         },
         {
             "name": "react/child-process",
@@ -3313,18 +3313,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/reactphp/child-process.git",
-                "reference": "b7cd3f5e81ddf19b897ad58f1beddc594917a62f"
+                "reference": "b35932afbb07bdd8a3ef6691b9c9e8c76214ba8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reactphp/child-process/zipball/b7cd3f5e81ddf19b897ad58f1beddc594917a62f",
-                "reference": "b7cd3f5e81ddf19b897ad58f1beddc594917a62f",
+                "url": "https://api.github.com/repos/reactphp/child-process/zipball/b35932afbb07bdd8a3ef6691b9c9e8c76214ba8e",
+                "reference": "b35932afbb07bdd8a3ef6691b9c9e8c76214ba8e",
                 "shasum": ""
             },
             "require": {
                 "evenement/evenement": "^3.0 || ^2.0 || ^1.0",
                 "php": ">=5.3.0",
-                "react/event-loop": "^1.2",
+                "react/event-loop": "^1.6",
                 "react/stream": "^1.4"
             },
             "require-dev": {
@@ -3380,7 +3380,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-10-06T05:20:35+00:00"
+            "time": "2026-11-22T17:58:52+00:00"
         },
         {
             "name": "react/dns",
@@ -3388,19 +3388,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/reactphp/dns.git",
-                "reference": "36922a39aa94ec4351712f183e3e67449d71b6d7"
+                "reference": "9788de04ff330fd590b4b4ba2a9cc8e05fe8b552"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reactphp/dns/zipball/36922a39aa94ec4351712f183e3e67449d71b6d7",
-                "reference": "36922a39aa94ec4351712f183e3e67449d71b6d7",
+                "url": "https://api.github.com/repos/reactphp/dns/zipball/9788de04ff330fd590b4b4ba2a9cc8e05fe8b552",
+                "reference": "9788de04ff330fd590b4b4ba2a9cc8e05fe8b552",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.0",
                 "react/cache": "^1.0 || ^0.6 || ^0.5",
-                "react/event-loop": "^1.2",
-                "react/promise": "^3.2 || ^2.7 || ^1.2.1"
+                "react/event-loop": "^1.6",
+                "react/promise": "^3.3 || ^2.7 || ^1.2.1"
             },
             "require-dev": {
                 "phpunit/phpunit": "^9.6 || ^8.5 || ^5.7 || ^4.8.36",
@@ -3456,7 +3456,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-10-06T05:20:31+00:00"
+            "time": "2026-11-22T18:03:47+00:00"
         },
         {
             "name": "react/event-loop",
@@ -3536,12 +3536,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/reactphp/promise.git",
-                "reference": "63cde9c050a876ac25d2d2880c0a2a000b26e211"
+                "reference": "146a40005ac07e876c9e5055be40e66242f23c97"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reactphp/promise/zipball/63cde9c050a876ac25d2d2880c0a2a000b26e211",
-                "reference": "63cde9c050a876ac25d2d2880c0a2a000b26e211",
+                "url": "https://api.github.com/repos/reactphp/promise/zipball/146a40005ac07e876c9e5055be40e66242f23c97",
+                "reference": "146a40005ac07e876c9e5055be40e66242f23c97",
                 "shasum": ""
             },
             "require": {
@@ -3602,7 +3602,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-10-25T19:20:04+00:00"
+            "time": "2026-11-22T17:57:15+00:00"
         },
         {
             "name": "react/socket",
@@ -3610,20 +3610,20 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/reactphp/socket.git",
-                "reference": "23fc284c3a38ad4866aaf8c50ca21b83d62df818"
+                "reference": "4784471ff88748fe37c32a3f30715da4b42491cf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reactphp/socket/zipball/23fc284c3a38ad4866aaf8c50ca21b83d62df818",
-                "reference": "23fc284c3a38ad4866aaf8c50ca21b83d62df818",
+                "url": "https://api.github.com/repos/reactphp/socket/zipball/4784471ff88748fe37c32a3f30715da4b42491cf",
+                "reference": "4784471ff88748fe37c32a3f30715da4b42491cf",
                 "shasum": ""
             },
             "require": {
                 "evenement/evenement": "^3.0 || ^2.0 || ^1.0",
                 "php": ">=5.3.0",
                 "react/dns": "^1.13",
-                "react/event-loop": "^1.2",
-                "react/promise": "^3.2 || ^2.6 || ^1.2.1",
+                "react/event-loop": "^1.6",
+                "react/promise": "^3.3 || ^2.6 || ^1.2.1",
                 "react/stream": "^1.4"
             },
             "require-dev": {
@@ -3682,7 +3682,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2026-10-06T05:20:34+00:00"
+            "time": "2026-11-22T18:03:08+00:00"
         },
         {
             "name": "react/stream",
@@ -4705,19 +4705,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "9cf4883785d70efff9a9543dcddbcc211e12c630"
+                "reference": "66f09869b3a357047d313851f89081328dbe8832"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/9cf4883785d70efff9a9543dcddbcc211e12c630",
-                "reference": "9cf4883785d70efff9a9543dcddbcc211e12c630",
+                "url": "https://api.github.com/repos/symfony/console/zipball/66f09869b3a357047d313851f89081328dbe8832",
+                "reference": "66f09869b3a357047d313851f89081328dbe8832",
                 "shasum": ""
             },
             "require": {
                 "php": ">=8.4.1",
                 "symfony/deprecation-contracts": "^2.5|^3",
                 "symfony/polyfill-mbstring": "^1.0",
-                "symfony/polyfill-php85": "^1.32",
+                "symfony/polyfill-php85": "^1.33",
                 "symfony/service-contracts": "^2.5|^3",
                 "symfony/string": "^7.4.6|^8.0.6"
             },
@@ -4798,7 +4798,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-16T12:56:42+00:00"
+            "time": "2026-11-23T15:03:02+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -5928,12 +5928,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
-                "reference": "c9fb4cfeb0fe4b6fdacd0113b46fd54eaa04835f"
+                "reference": "2c176461fd9614ffa1bb292ca7c95205d0e928c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/process/zipball/c9fb4cfeb0fe4b6fdacd0113b46fd54eaa04835f",
-                "reference": "c9fb4cfeb0fe4b6fdacd0113b46fd54eaa04835f",
+                "url": "https://api.github.com/repos/symfony/process/zipball/2c176461fd9614ffa1bb292ca7c95205d0e928c9",
+                "reference": "2c176461fd9614ffa1bb292ca7c95205d0e928c9",
                 "shasum": ""
             },
             "require": {
@@ -5993,7 +5993,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-11-03T14:34:49+00:00"
+            "time": "2026-11-23T09:50:06+00:00"
         },
         {
             "name": "symfony/service-contracts",
